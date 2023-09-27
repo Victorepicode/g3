@@ -10,7 +10,7 @@
 .titletop{
     margin-inline: auto;
     background-color: rgba(245, 213, 187, 0.452);
-    border: 0.3px solid #dfa269; 
+    border-top: 0.3px solid #dfa269; 
 
 }
 .titletop p{

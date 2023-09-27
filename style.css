@@ -1,0 +1,127 @@
+.logo{
+   margin-inline: auto;
+}
+.logo img{
+    display:block;
+    margin:0px auto;
+    text-align:center;
+}
+
+.titletop{
+    margin-inline: auto;
+    background-color: rgba(245, 213, 187, 0.452);
+    border: 0.3px solid #dfa269; 
+
+}
+.titletop p{
+    display:block;
+    margin: 15px auto;
+    text-align:center;
+    color: rgb(6, 91, 94);
+}
+.titolo{
+    margin-inline: auto;                                 
+ }
+
+ .titolo h1{
+     display:block;
+     margin:0px auto;
+     text-align:center;
+    }
+.descrizioneparagrafo{
+        margin-inline: auto;                                 
+     }
+    
+.descrizioneparagrafo p{
+         display:block;
+         margin:20px auto;
+         text-align:center;
+    }
+.focaccia{
+        margin-inline: auto;                                 
+     }
+    
+.focaccia img{
+         display:block;
+         margin:0px auto;
+         text-align:center;
+    }
+    .focaccia p{
+        display:block;
+        margin:10px auto;
+        text-align:center;
+        color: rgb(161, 151, 151);
+   }
+   .featuredlink{
+    margin-inline: auto;    
+                                        
+ }
+ .featuredlink p{
+         display:block;
+         margin:0px auto;
+         text-align:center;    
+         margin-left: -550px;  
+         color: rgb(226, 86, 43);
+
+                               
+ }
+ .featuredlink a{
+    display:block;
+    margin:0px auto;
+    text-align:center;    
+    margin-left: -346px;  
+                             
+}
+.featuredlink h2{
+    display:block;
+    margin:30px auto;
+    text-align:center;    
+    margin-left: -550px;  
+                             
+}
+.featuredlink h4{
+    display:block;
+    margin:15px auto;
+    text-align:center;    
+    margin-left: -560px;  
+                             
+}
+.featuredlink ul{
+         display:block;
+         margin:0px auto;    
+         margin-left: 310px;              
+}
+
+.method {
+    display:block;
+    margin:30px auto;
+    text-align:center;    
+    
+}
+.method h2{
+    display:block;
+    margin:30px auto;
+    text-align:center;    
+    margin-left: -590px;  
+}
+.method h4{
+    display:block;
+    margin:30px auto;
+    text-align:center;    
+    margin-left: -500px;  
+}
+.method p{
+    display:block;
+    margin:0px auto;
+    text-align:center;    
+    margin-left: -200px;  
+}
+.chiusura p{
+    display:block;
+    margin:30px auto;
+    text-align:center;    
+    margin-left: -500px;  
+}
+
+
+
